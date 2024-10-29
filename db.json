@@ -67,7 +67,7 @@
         "details":[{"country":"iran"},{"Recipe Type":"Pea"},{"difficulty":"easi"},{"Preparation Time":"10 mins"},{"cooking time":"5 mins"},{"services":20}],
         "ingredients":["Pea","Salt and Pepper" ,"special Spices","bread","Potato"]
     }],
-    {
+    
   "countries":[
       {
         "name": "Afghanistan",
@@ -16892,5 +16892,5 @@
         "independent": true
       }
     ]
-}
+
 }
